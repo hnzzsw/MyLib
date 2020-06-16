@@ -7,7 +7,7 @@
 //
 
 #import "SWViewController.h"
-
+#import "UIView+Cornor.h"
 @interface SWViewController ()
 
 @end
@@ -17,7 +17,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+    [self.view addSubview:view];
+    [view setRadius:50 borderWidth:1 borderColor:[UIColor redColor]];
 }
 
 - (void)didReceiveMemoryWarning
