@@ -53,7 +53,7 @@
 		5B700F2D09D9E13488489DDFE6610BCB /* MyLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyLib-prefix.pch"; sourceTree = "<group>"; };
 		658CC57AA4EEC82062ACC6CF53D3B905 /* MyLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B7826AFD731EF86D28DF5D3506DD209 /* MyLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MyLib-Info.plist"; sourceTree = "<group>"; };
-		6CC21754278C33A4E9D9B09204163910 /* MyLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6CC21754278C33A4E9D9B09204163910 /* MyLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyLib.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		75E186C9B044F4BF2DA2B971E5047E2E /* Pods-MyLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyLib_Example-umbrella.h"; sourceTree = "<group>"; };
 		7BE8C489F962EA65D4A009348E9D3C9B /* UIView+Cornor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Cornor.h"; path = "MyLib/Classes/UIView+Cornor.h"; sourceTree = "<group>"; };
 		87EDA39E7D2887DA1366EE995883D5D9 /* Pods-MyLib_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyLib_Example-dummy.m"; sourceTree = "<group>"; };
